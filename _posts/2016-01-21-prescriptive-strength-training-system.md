@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-21T17:48:38.465Z'
+datePublished: '2016-01-21T17:48:38.614Z'
 dateModified: '2016-01-21T17:48:35.338Z'
 title: Prescriptive Strength Training System
 author: []
