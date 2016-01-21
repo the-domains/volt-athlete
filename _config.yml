@@ -1,7 +1,7 @@
 name: Volt Athlete
 favicon: null
-layout_spectrum: 0.5129277149681002
-typography_spectrum: 0.9391632508486509
+layout_spectrum: 1
+typography_spectrum: 0.18324
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#000000'
+    - '#262a35'
+    - '#4c5164'
+    - '#a62544'
+    - '#767b8f'
   brandStrength: 0.4723194115795195
   lightness: 0.6965751203242689
   saturation: 0.44055981817655265
